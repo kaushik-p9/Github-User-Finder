@@ -1,0 +1,29 @@
+.container {
+    background-color: #467ee7;
+}
+
+.btn {
+    border-radius: 5px;
+}
+
+.repos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.card-image {
+    width: 50%;
+}
+
+.card {
+    color: #5036e4;
+    background-color: #80deea;
+    text-decoration-color: black;
+    text-emphasis-color: black;
+}
+
+#searchUser {
+    text-decoration-color: black;
+    color: black;
+}
